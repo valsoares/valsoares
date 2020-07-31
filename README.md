@@ -10,7 +10,6 @@
 <a href="mailto:valescasoares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=Gmail&logoColor=white"/></a>
 
 > :electric_plug: I'm a Mechatronics Engineering student who has always been enthusiastic about technology.
----
 
 - :computer: I’m currently learning full stack development
 
