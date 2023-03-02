@@ -12,7 +12,7 @@
 > :electric_plug: I'm a Control and Automation Engineer who has always been enthusiastic about technology.
 
 - :computer: I carried out full stack development projects
-- 
+
 - :seedling: I’m currently learning data analysis
 
 - :mechanical_arm: Python, SQL, ReactJS, HTML, CSS, Javascript, C/C++
