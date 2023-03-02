@@ -9,13 +9,15 @@
 <a href="https://valsoares.github.io/meusite" target="_blank"><img src="https://img.shields.io/badge/-Website-black?style=flat&logo=github&logoColor=white"/></a>
 <a href="mailto:valescasoares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=Gmail&logoColor=white"/></a>
 
-> :electric_plug: I'm a Mechatronics Engineering student who has always been enthusiastic about technology.
+> :electric_plug: I'm a Control and Automation Engineer who has always been enthusiastic about technology.
 
-- :computer: I’m currently learning full stack development
+- :computer: I carried out full stack development projects
+- 
+- :seedling: I’m currently learning data analysis
 
-- :mechanical_arm: ReactJS, HTML, CSS, Javascript, Python, C/C++
+- :mechanical_arm: Python, SQL, ReactJS, HTML, CSS, Javascript, C/C++
 
-- :black_heart: Robotics
+- :black_heart: Engineering, Bigdata, Robotics
 
 <!--
 **valsoares/valsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
