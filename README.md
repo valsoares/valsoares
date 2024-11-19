@@ -6,7 +6,7 @@
 -->
 
 <a href="https://www.linkedin.com/in/valesca-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://valsoares.github.io/meusite" target="_blank"><img src="https://img.shields.io/badge/-Website-black?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://valsoares.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Website-black?style=flat&logo=github&logoColor=white"/></a>
 <a href="mailto:valescasoares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=Gmail&logoColor=white"/></a>
 
 > :electric_plug: I'm a Control and Automation Engineer who has always been enthusiastic about technology.
